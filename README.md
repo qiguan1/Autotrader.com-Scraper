@@ -16,10 +16,11 @@ statistics to aid the buyer or seller in making an informed decision.
 
 # Run the code
 -----------------------------------------
-*To start a brand new scraping task, simply open the ipynb file and click run all cells.
- Please make sure to install all the required packages. 
+* To start a brand new scraping task, simply open the ipynb file and click run all cells.
+  Please make sure to install all the required packages. 
 
-*The program will then ask you to input specific information:
+* The program will then ask you to input specific information:
+
  1.Enter Make(Press enter directly to omit):
    --For this step, please enter a car brand, Toyota, Honda, BMW, etc.
      Please make sure the brand is a valid brand. 
